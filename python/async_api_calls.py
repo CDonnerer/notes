@@ -1,7 +1,7 @@
 """Aync querying of API
 """
-import time
 import asyncio
+import time
 
 
 class AsyncClient:

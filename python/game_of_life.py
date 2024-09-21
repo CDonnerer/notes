@@ -1,5 +1,6 @@
 import itertools
 
+
 def neighbours(points):
     x, y = points
     yield x + 1, y
